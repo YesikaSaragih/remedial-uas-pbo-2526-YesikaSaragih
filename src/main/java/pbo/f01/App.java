@@ -10,6 +10,7 @@ import java.util.List;
  * Nama: Yesika Nadia Saragih
  * Nim: 12S24024
  */
+
 public class App {
     public static void main(String[] args) {
         EntityManagerFactory emf = null;
